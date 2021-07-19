@@ -16,6 +16,7 @@ img {
   
   p.time {
     color: gray;
+    background-color: Blue;
   }
   
   .external-link {
@@ -24,5 +25,4 @@ img {
   
   * {
     font-family: Helvetica;
-    background-color: Blue;
   }
